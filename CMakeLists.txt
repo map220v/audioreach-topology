@@ -9,6 +9,7 @@ set(TPLGS
 	"SM8450-HDK\;SM8450-HDK\;qcom/sm8450\;"
 	"SM8550-HDK\;SM8550-HDK\;qcom/sm8550\;"
 	"SM8550-QRD\;SM8550-QRD\;qcom/sm8550\;"
+    "Xiaomi-Pad6SPro\;Xiaomi-Pad6SPro\;qcom/sm8550\;"
 	"SM8650-QRD\;SM8650-QRD\;qcom/sm8650\;"
 	"SM8650-MTP\;SM8650-MTP\;qcom/sm8650\;"
 	"SC8280XP-LENOVO-X13S\;audioreach\;qcom/sc8280xp/LENOVO/21BX\;"
